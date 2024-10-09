@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1685824886 source:d:\cse 225\project v6\project\course.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+
+1685836151 source:d:\cse 225\project v6\project\main.cpp
+	<iostream>
+	"Course.cpp"
+	"Faculty.cpp"
+	"RoutineList.cpp"
+
+1686192267 d:\cse 225\project v6\project\course.cpp
+	"course.h"
+
+1685825091 source:d:\cse 225\project v6\project\faculty.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1686195500 d:\cse 225\project v6\project\faculty.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Faculty.h"
+
+1685824435 source:d:\cse 225\project v6\project\courseroutine.cpp
+
+1686195458 d:\cse 225\project v6\project\routinelist.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Faculty.h"
+	"Course.h"
+	<set>
+
+1685839013 d:\cse 225\project v6\project\course.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+
+1685837977 d:\cse 225\project v6\project\faculty.h
+	<iostream>
+	<fstream>
+	<string>
+	"Course.h"
+
+1685836151 source:e:\cse 225\project v6\project\main.cpp
+	<iostream>
+	"Course.cpp"
+	"Faculty.cpp"
+	"RoutineList.cpp"
+
+1687627424 e:\cse 225\project v6\project\course.cpp
+	"course.h"
+
+1685839013 e:\cse 225\project v6\project\course.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+
+1686195500 e:\cse 225\project v6\project\faculty.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Faculty.h"
+
+1685837977 e:\cse 225\project v6\project\faculty.h
+	<iostream>
+	<fstream>
+	<string>
+	"Course.h"
+
+1687627462 e:\cse 225\project v6\project\routinelist.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"Faculty.h"
+	"Course.h"
+	<set>
+

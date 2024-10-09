@@ -1,0 +1,288 @@
+Faculty: Dr. Md. Mozammel Huq Azad Khan
+Course: CSE101
+Day: MW
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Dr. Md. Mozammel Huq Azad Khan
+Course: CSE102
+Day: ST
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Md. Mozammel Huq Azad Khan
+Course: CSE103
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Shamim H. Ripon
+Course: CSE110
+Day: ST
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Shamim H. Ripon
+Course: CSE200
+Day: MW
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Dr. Md. Nawab Yousuf Ali
+Course: CSE209
+Day: MW
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Dr. Md. Nawab Yousuf Ali
+Course: ICE216
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Ahmed Wasif Reza
+Course: CSE227
+Day: MW
+Time: 8:00-9:30
+Section: 1
+
+Faculty: Dr. Ahmed Wasif Reza
+Course: CSE246
+Day: ST
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Dr. Taskeed Jabid
+Course: CSE302
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Taskeed Jabid
+Course: CSE303
+Day: ST
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Dr. Maheen Islam
+Course: ICE313
+Day: MW
+Time: 8:00-9:30
+Section: 1
+
+Faculty: Dr. Maheen Islam
+Course: ICE314
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Mohammad Rezwanul Huq
+Course: CSE325
+Day: MW
+Time: 8:00-9:30
+Section: 1
+
+Faculty: Dr. Mohammad Rezwanul Huq
+Course: CSE345
+Day: MW
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Dr. Anisur Rahman
+Course: CSE350
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Anisur Rahman
+Course: CSE360
+Day: MW
+Time: 9:40-11:10
+Section: 1
+
+Faculty: Dr. Mohammad Arifuzzaman
+Course: ICE370
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Mohammad Arifuzzaman
+Course: ICE401
+Day: ST
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Dr. Anup Kumar Paul
+Course: CSE407
+Day: MW
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Dr. Anup Kumar Paul
+Course: CSE412
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Sarwar Jahan
+Course: CSE430
+Day: ST
+Time: 8:00-9:30
+Section: 1
+
+Faculty: Dr. Sarwar Jahan
+Course: CSE432
+Day: ST
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Mohammad Salah Uddin
+Course: ICE439
+Day: ST
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Mohammad Salah Uddin
+Course: ICE441
+Day: ST
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Dr. Md. Sawkat Ali
+Course: ICE444
+Day: ST
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Md. Sawkat Ali
+Course: ICE448
+Day: ST
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Md. Mostofa Kamal Rasel
+Course: CSE464
+Day: MW
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Md. Mostofa Kamal Rasel
+Course: CSE475
+Day: ST
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Mohammad Rifat Ahmmad Rashid
+Course: CSE479
+Day: ST
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Mohammad Rifat Ahmmad Rashid
+Course: CSE487
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Mohammad Manzurul Islam
+Course: CSE489
+Day: ST
+Time: 9:40-11:10
+Section: 1
+
+Faculty: Dr. Mohammad Manzurul Islam
+Course: CSE495
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Md. Hasanul Ferdaus
+Course: CSE102
+Day: ST
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Md. Hasanul Ferdaus
+Course: CSE103
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Dr. Abdullahil Al Kafee Chowdhury
+Course: CSE110
+Day: ST
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Dr. Abdullahil Al Kafee Chowdhury
+Course: CSE200
+Day: MW
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Dr. Hasan Mahmood Aminul Islam
+Course: CSE209
+Day: MW
+Time: 4:20-5:50
+Section: 1
+
+Faculty: Dr. Hasan Mahmood Aminul Islam
+Course: ICE216
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Rashedul Amin Tuhin
+Course: CSE227
+Day: MW
+Time: 8:00-9:30
+Section: 1
+
+Faculty: Rashedul Amin Tuhin
+Course: CSE246
+Day: ST
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Tanni Mittra
+Course: CSE302
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
+Faculty: Tanni Mittra
+Course: CSE303
+Day: ST
+Time: 4:20-5:50
+Section: 1
+
+Faculty: M Saddam Hossain Khan
+Course: ICE313
+Day: MW
+Time: 8:00-9:30
+Section: 1
+
+Faculty: M Saddam Hossain Khan
+Course: ICE314
+Day: MW
+Time: 2:40-4:10
+Section: 1
+
+Faculty: Musharrat Khan
+Course: CSE325
+Day: MW
+Time: 8:00-9:30
+Section: 1
+
+Faculty: Musharrat Khan
+Course: CSE345
+Day: MW
+Time: 1:00-2:30
+Section: 1
+
+Faculty: Mahamudul Hasan
+Course: CSE350
+Day: MW
+Time: 11:20-12:50
+Section: 1
+
